@@ -43,3 +43,23 @@ require  '../../scripts/database_connection.php';
 
 
 ?>
+
+
+
+##more sql code
+INSERT INTO users (
+first_name,
+last_name,
+email,
+facebook_url,
+twitter_handle)
+
+VALUES ("Brett",
+        "McLaughlin",
+        "brett@.m@me.com",
+        "http://www.facebook.com/bdmclaughlin",
+        "@bdmclaughlin"
+);
+
+
+#we could have added more work to tihs today.
